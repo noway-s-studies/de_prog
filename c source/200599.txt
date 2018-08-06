@@ -1,0 +1,10 @@
+1;The Outfield;All the Love in the World;3:24
+2;A-ha;Take on Me;3:33
+3;Cindy Lauper;Girls Just Wanna Have Fun;3:44
+4;Stevie Wonder;I Just Call to Say I Love You;4:19
+5;Men at Work;Down Under;3:29
+6;Al Corley;Square Rooms;3:31
+7;Queen;I Want to Break Free;4:15
+8;Madonna;La Isla Bonita;3:38
+9;Laura Branigan;Gloria;3:47
+10;The Flirts;Danger;3:56

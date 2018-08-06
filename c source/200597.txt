@@ -1,0 +1,7 @@
+palacsinta;tej,tojás,só,cukor,liszt,olaj,víz;200
+császármorzsa;tojás,búzadara,liszt,tej,só,cukor,olaj;220
+stíriai metélt;liszt,túró,vaj,tojás,tejföl;320
+bécsi szelet;marhahús,só,tojás,liszt,zsemlemorzsa;1500
+rántotta;tojás,só,olaj;120
+párizsi csirkemell;csirkemell,tojás,liszt,só;1200
+parizeres szendvics;kenyér,parizer;100
